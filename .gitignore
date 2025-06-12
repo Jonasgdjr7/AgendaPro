@@ -1,0 +1,17 @@
+# Arquivos e pastas de compilação
+[Bb]in/
+[Oo]bj/
+
+# Arquivos do utilizador e de configuração local
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Pastas e ficheiros do Visual Studio Code
+.vs/
+.vscode/
+
+# Arquivos do sistema operativo
+Thumbs.db
+desktop.ini
